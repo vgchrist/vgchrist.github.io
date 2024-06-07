@@ -12,5 +12,8 @@ I am an (incoming) Ph.D. student at the the Aristotle University of Thessaloniki
 
 ### News 
 
+* \[06/24\]: I'm attending the Workshop on Algorithms for Learning and Economics ([WALE 2024](https://wale.gr/2024/)) in Kefalonia.
 
-<br/>
+* \[05/24\]: I'll talk in the upcoming Rump Session (5min talk) of the [COMSOC Seminar](https://www.comsocseminar.org/) about our recent work on EFX allocations.
+
+* \[04/24\]: Our paper with [Christodoulos Santorinaios](https://santorinaios.github.io/) got accepted in IJCAI '24. See you in Jeju!
