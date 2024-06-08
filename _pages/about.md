@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an (incoming) Ph.D. student at the the Aristotle University of Thessaloniki and [Archimedes/Athena RC](https://archimedesai.gr/en/). I am interested in algorithmic game theory, mechanism design, fair division, and online learning. I am fortunate to be advised by [George Christodoulou](https://sites.google.com/view/gchristo) and [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa). My research is supported by an Archimedes AI Ph.D. fellowship. 
+I am an (incoming) Ph.D. student in the [Department of Computer Science](https://www.csd.auth.gr/en/) at the Aristotle University of Thessaloniki and at [Archimedes/Athena RC](https://archimedesai.gr/en/). I am very fortunate to be advised by [George Christodoulou](https://sites.google.com/view/gchristo) and [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa). I am interested in algorithmic game theory, mechanism design, online learning, and fair division. My research is supported by an Archimedes AI Ph.D. fellowship. 
 
 
 ### News 
