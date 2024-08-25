@@ -12,6 +12,7 @@ I am a 1st year Ph.D. student in the [Department of Computer Science](https://ww
 
 ### News 
 
+* \[08/24\]: I'll be giving a talk at [ACAC '24](http://pages.cs.aueb.gr/othersites/ACAC24/).
 * \[07/24\]: New [paper](https://arxiv.org/abs/2407.05891) on ArXiv.
 * \[06/24\]: I'm attending the Workshop on Algorithms for Learning and Economics ([WALE 2024](https://wale.gr/2024/)) in Kefalonia.
 * \[05/24\]: I'll talk in the upcoming Rump Session (5min talk) of the [COMSOC Seminar](https://www.comsocseminar.org/) about our recent work on EFX allocations.
