@@ -13,7 +13,7 @@ I am a 2nd year Ph.D. student in the [Department of Computer Science](https://ww
 ### News 
 * \[07/24\]: I presented a poster at [FaiRACAC '25](https://sites.google.com/view/fairacac25/) in Aarhus. 
 * \[06/24\]: I gave a talk at the 1st UK Workshop for Junior Researchers in Economics and Computation ([JECCO 2025](https://jecco2025.gitlab.io/)) in Edinburgh. I also presented our recent work on maximin shares at the [CS/Econ Seminar](https://charalamposkokkalis.github.io/seminar/) of the University of Edinburgh!
-* \[05/25\]: Our [paper](https://arxiv.org/abs/2502.05141) (with [George Christodoulou](https://sites.google.com/view/gchristo), [Symeon Mastrakoulis](https://scholar.google.com/citations?user=UYM5J70AAAAJ&hl), and [Alkmini Sgouritsa])(https://sites.google.com/site/alkminisgouritsa) has been accepted to IJCAI '25!
+* \[05/25\]: Our [paper](https://arxiv.org/abs/2502.05141) (with [George Christodoulou](https://sites.google.com/view/gchristo), [Symeon Mastrakoulis](https://scholar.google.com/citations?user=UYM5J70AAAAJ&hl), and [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa)) has been accepted to IJCAI '25!
 * \[04/25\]: Our [paper](https://www.sciencedirect.com/science/article/pii/S0020019025000213) (with [George Christodoulou](https://sites.google.com/view/gchristo)) has been accepted for publication in a special issue on Economics and Computation at Information Processing Letters. 
 * \[02/25\]: New [paper](https://arxiv.org/abs/2502.05141) on ArXiv.
 * \[08/24\]: I'll be giving a talk at [ACAC '24](http://pages.cs.aueb.gr/othersites/ACAC24/).
