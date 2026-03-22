@@ -11,6 +11,8 @@ Working Papers
   
 Conference Publications
 ------------
+- **Improving the Price of Anarchy via Predictions in Parallel-Link Networks** <br> with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/) <br> <em> WWW 2026 </em>
+
 - **[Maximin Share Guarantees for Few Agents with Subadditive Valuations](https://arxiv.org/pdf/2502.05141)** <br> with [George Christodoulou](https://sites.google.com/view/gchristo), [Symeon Mastrakoulis](https://scholar.google.com/citations?user=UYM5J70AAAAJ&hl), and [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa) <br> <em> IJCAI 2025 </em>
 
 - **[On The Pursuit of EFX for Chores: Non-Existence and Approximations](https://arxiv.org/pdf/2406.10752)** <br> with [Christodoulos Santorinaios](https://santorinaios.github.io/) <br> <em> IJCAI 2024 </em>
