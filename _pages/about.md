@@ -11,6 +11,9 @@ I am a 2nd year Ph.D. student in the [Department of Computer Science](https://ww
 
 
 ### News 
+* \[09/26\]: Our paper on learning-augmented coordination mechanisms (with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/)) has been accepted to NeurIPS '26!
+* \[07/26\]: I gave a talk at the 2nd UK Workshop for Junior Researchers in Economics and Computation ([JECCO 2026](https://jecco2026.gitlab.io/)) in Oxford, where I presented our recent work on learning-augmented coordination mechanisms for congestion games.
+* \[07/26\]: I presented a poster at the Workshop on Algorithms for Learning and Economics ([WALE 2026](https://wale.gr/2026/)) in Lemnos, Greece.
 * \[02/26\]: Our paper (with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/)) has been accepted to WWW '26!
 * \[10/25\]: Attending the Satellite [Workshop](https://www.cwi.nl/en/events/research-semester-programmes/satellite-workshop-1-learning-augmented-algorithms/) on learning-augmented algorithms at CWI.
 * \[07/25\]: I presented a poster at [FaiRACAC '25](https://sites.google.com/view/fairacac25/) in Aarhus. 
