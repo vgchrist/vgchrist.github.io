@@ -11,7 +11,7 @@ Working Papers
   
 Conference Publications
 ------------
-- **Learning-Augmented Coordination Mechanisms** <br> with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/) <br> <em> 40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026 </em>
+- **[Learning-Augmented Coordination Mechanisms](https://arxiv.org/abs/2610.36508)** <br> with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/) <br> <em> 40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026 </em>
 
 - **[Improving the Price of Anarchy via Predictions in Parallel-Link Networks](https://dl.acm.org/doi/10.1145/3774904.3792480)** <br> with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/) <br> <em> The ACM Web Conference (WWW), 2026 </em>
 
