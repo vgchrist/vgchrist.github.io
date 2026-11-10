@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year Ph.D. student in the [Department of Computer Science](https://www.csd.auth.gr/en/) at the Aristotle University of Thessaloniki and at [Archimedes/Athena RC](https://archimedesai.gr/en/). I am very fortunate to be advised by [George Christodoulou](https://sites.google.com/view/gchristo) and [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa). I am interested in algorithmic game theory, mechanism design, decision-making under uncertainty, and fair division. My research is supported by an [Archimedes AI](https://archimedesai.gr/en/) Ph.D. fellowship. 
+I am a 3rd year Ph.D. student in the [Department of Computer Science](https://www.csd.auth.gr/en/) at the Aristotle University of Thessaloniki and at [Archimedes/Athena RC](https://archimedesai.gr/en/). I am very fortunate to be advised by [George Christodoulou](https://sites.google.com/view/gchristo) and [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa). I am interested in algorithmic game theory, mechanism design, decision-making under uncertainty, and fair division. My research is supported by an [Archimedes AI](https://archimedesai.gr/en/) Ph.D. fellowship. 
 
 
 ### News 
-* \[09/26\]: Our paper on learning-augmented coordination mechanisms (with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/)) has been accepted to NeurIPS '26!
+* [09/26]: Our paper on [learning-augmented coordination mechanisms](https://arxiv.org/abs/2610.36508) (with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/)) has been accepted to NeurIPS '26!
 * \[07/26\]: I gave a talk at the 2nd UK Workshop for Junior Researchers in Economics and Computation ([JECCO 2026](https://jecco2026.gitlab.io/)) in Oxford, where I presented our recent work on learning-augmented coordination mechanisms for congestion games.
 * \[07/26\]: I presented a poster at the Workshop on Algorithms for Learning and Economics ([WALE 2026](https://wale.gr/2026/)) in Lemnos, Greece.
 * \[02/26\]: Our paper (with [George Christodoulou](https://sites.google.com/view/gchristo), [Alkmini Sgouritsa](https://sites.google.com/site/alkminisgouritsa), and [Ioannis Vlachos](https://yannisvl.github.io/)) has been accepted to WWW '26!
